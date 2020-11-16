@@ -58,3 +58,5 @@ pip install -U scikit-learn
 ## Prerequisites
 Basic knowledge of working in python. Familiarity with the Pandas library of Python. Matplotlib and Numpy basics will do it for you. Linear regression is a must.
 
+#### [Video Explanation](#prerequisites)
+
