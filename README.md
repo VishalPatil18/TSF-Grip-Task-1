@@ -1,4 +1,4 @@
-# Prediction using Supervised ML
+# Score Predictor - Prediction using Supervised ML
 
 
 ### TSF GRIP DATA SCIENCE AND BUSINESS ANALYTICS INTERN TASK 1
