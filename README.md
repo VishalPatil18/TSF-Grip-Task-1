@@ -1,5 +1,6 @@
 # Score Predictor - Prediction using Supervised ML
 
+<p><img src="https://github.com/SpecTEviL/TSF-Grip-Task-1/blob/main/TSF%20GRIP%20Task%201%20YT%20thumbnail.jpg" alt="Score Predictor Thumbnail" /></p>
 
 ### TSF GRIP DATA SCIENCE AND BUSINESS ANALYTICS INTERN TASK 1
 
@@ -58,5 +59,5 @@ pip install -U scikit-learn
 ## Prerequisites
 Basic knowledge of working in python. Familiarity with the Pandas library of Python. Matplotlib and Numpy basics will do it for you. Linear regression is a must.
 
-#### [Video Explanation](#prerequisites)
+#### [Video Explanation](https://youtu.be/Hg7OcdqAXts)
 
